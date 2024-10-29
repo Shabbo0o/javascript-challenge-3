@@ -12,7 +12,7 @@ function testScope(){
 }
 testScope();
 // Task 4: Outside of the function, try to print `localVar` and observe the result.
-console.log("Local variable: ", localVar);
+//console.log("Local variable: ", localVar);
 
 /* Result: 6-scope.js:15 Uncaught ReferenceError: localVar is not defined */
 

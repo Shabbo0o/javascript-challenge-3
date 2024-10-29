@@ -5,12 +5,12 @@
 // Starting Data
 const student = { name: "Alex", age: 20, grades: [85, 90, 78] };
 const course = {
-  title: "JavaScript Basics",
-  duration: "3 months",
-  instructor: {
-    firstName: "Sara",
-    lastName: "Jones",
-  },
+    title: "JavaScript Basics",
+    duration: "3 months",
+    instructor: {
+        firstName: "Sara",
+        lastName: "Jones",
+    },
 };
 const numbers1 = [0, 15, -3, 9, null, 22, undefined, 8, NaN, false, 100];
 
